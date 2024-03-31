@@ -5,14 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c651f436-5ed3-421f-a4c7-71b3b38cb7d8" name="Changes" comment="changed">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/bed-item3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/shopping-cart.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/sofa-chair-item2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/sofa-item1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Furnitures360View_Page.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RoundedButton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RoundedButton.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ShoppingCart_Page.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ShoppingCart_Page.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +35,8 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Furnitures360View_Page.executor": "Run",
+    "Application.Item360Rotate_Page.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.RoundedButtonExample.executor": "Run",
     "Application.RoundedCornerButton.executor": "Run",
@@ -53,7 +50,7 @@
     "dart.analysis.tool.window.visible": "false",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/3rd Year/Youtube Courses/Java Swing/project_management/images",
+    "last_opened_file_path": "D:/3rd Year/Youtube Courses/Java Swing/project_management",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -65,6 +62,9 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\3rd Year\Youtube Courses\Java Swing\project_management\images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\3rd Year\Youtube Courses\Java Swing\project_management\images" />
     </key>
   </component>
@@ -89,7 +89,12 @@
       <workItem from="1711247047118" duration="18094000" />
       <workItem from="1711308061465" duration="548000" />
       <workItem from="1711329855556" duration="918000" />
-      <workItem from="1711483352825" duration="20557000" />
+      <workItem from="1711483352825" duration="21106000" />
+      <workItem from="1711541925926" duration="1233000" />
+      <workItem from="1711543179408" duration="28000" />
+      <workItem from="1711605617559" duration="616000" />
+      <workItem from="1711689024567" duration="565000" />
+      <workItem from="1711882715809" duration="4069000" />
     </task>
     <task id="LOCAL-00001" summary="hi">
       <option name="closed" value="true" />
@@ -107,7 +112,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711330717808</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="changed">
+      <option name="closed" value="true" />
+      <created>1711504924409</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1711504924409</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
